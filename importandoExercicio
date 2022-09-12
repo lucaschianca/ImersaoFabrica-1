@@ -1,0 +1,9 @@
+import exercicio_fabrica
+
+play = int(input('Digite 1 para começar o jogo: '))
+
+if play == 1:
+    print('INICIANDO JOGO')
+    exercicio_fabrica.jogo()
+else:
+    print('INVÁLIDO')
