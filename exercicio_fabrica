@@ -19,4 +19,4 @@ def jogo():
 
     print('Fim do jogo.')
 
-    #Um jogo simples para demonstrar a funcionalidade do python de importar bibliotecas, como foi pedido no exercício.
+    #Um jogo simples para demonstrar a funcionalidade do python de importar bibliotecas e módulos, como foi pedido no exercício.
